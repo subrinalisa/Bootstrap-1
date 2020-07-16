@@ -1,0 +1,12 @@
+/*header start*/
+header{
+	background: #000;
+	padding: 50px 0;
+}
+h1{
+	font-size: 60px;
+	color: #fff;
+	text-align: center;
+	text-transform: uppercase;
+}
+/*header end*/
