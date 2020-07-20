@@ -1,4 +1,4 @@
 # Bootstrap-1
-bootstrap layout
+bootstrap layout & Media Query
 
 https://subrinalisa.github.io/Bootstrap-1/
