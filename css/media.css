@@ -1,31 +1,33 @@
 /*Extra small devices (portrait phones, less than 576px)*/
 @media (max-width: 575.98px) {
-	header{
-		background: #607D8B;
+	.box{
+		background: #009688;
 	}
-	h1{
-		font-size: 20px;
+	.box h1{
+		font-size: 30px;
 	}
 }
 
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px) {
-	header{
-		background: #607D8B;
+	.box{
+		background: #3F51B5;
 	}
-	h1{
-		font-size: 32px;
+	.box h1{
+		font-size: 40px;
 	}
+	
 }
 
 /*Medium devices (tablets, 768px and up)*/
 @media (min-width: 768px) and (max-width: 991.98px) {
-	header{
-		background: #607D8B;
+	.box{
+		background: #F44336;
 	}
-	h1{
-		font-size: 40px;
+	.box h1{
+		font-size: 45px;
 	}
+	
 }
 
 /*Large devices (desktops, 992px and up)*/
